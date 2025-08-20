@@ -1,20 +1,16 @@
-# Python  Django
-__pycache__
-.pyc
-env
+# Python
+*.pyc
+__pycache__/
 db.sqlite3
-.log
-
-# Django media  static
-media
-staticfiles
-.sqlite3
-
-# Node  React
-node_modules
-build
+venv/
 .env
 
-# VSCode  IDE
-.vscode
-.idea
+# Node / React
+node_modules/
+build/
+dist/
+.env
+
+# Others
+*.log
+.DS_Store
