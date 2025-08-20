@@ -7,10 +7,3 @@ venv/
 
 # Node / React
 node_modules/
-build/
-dist/
-.env
-
-# Others
-*.log
-.DS_Store
